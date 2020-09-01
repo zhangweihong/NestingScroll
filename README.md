@@ -1,16 +1,16 @@
 # nestingscroll
 
-A new Flutter project.
+flutter Scroll 嵌入 Scroll 滑动问题
+
+支持 pageview  listview scrollview 等所有scroll的子类
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+NestingScrollWidget(
+    child:需要嵌入的属于scroll的view
+    parentScrollController:父节点scroll的controller
+)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+

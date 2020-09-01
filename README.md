@@ -11,7 +11,7 @@ NestingScrollWidget(
     parentScrollController:父节点scroll的controller
 )
 ## 演示
-![image](https://github.com/zhangweihong/NestingScroll/blob/master/demo.gif)
+![image](https://img-blog.csdnimg.cn/20200901143959681.gif#pic_center)
 
 
 
